@@ -3,7 +3,6 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        maven { url 'https://mapbox.bintray.com/mapbox' }
     }
 }
 dependencyResolutionManagement {
